@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  love-match             |    this code estimates how compatible you are with your crush and the probability of having a good romantic relationship         | https://github.com/aaserwaa/love-match.git       |
+| 2 | Titanic-Passenger-Survival-Prediction           |  This is a machine learning model that predicts which passengers onboard the Titanic were likely to survive            | https://github.com/aaserwaa/Titanic-Passenger-Survival-Prediction-.git    |
+| 3 |  Caesar-s Cipher Decryption            |  this code decrypts a secret message           | https://github.com/aaserwaa/Caesar-s-Cipher-Decryption.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
